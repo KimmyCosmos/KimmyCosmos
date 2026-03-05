@@ -1,6 +1,6 @@
 # Kimberly Alexander
 
-M.Sc. Computational Data Science – UC Riverside  
+M.Sc. Computational Data Science (in progress) – UC Riverside  
 M.S. Applied Mathematics – UC Riverside  
 Former NASA Data & Analytics Intern – Aerosciences Evaluation and Test Capabilities (AETC)
 
