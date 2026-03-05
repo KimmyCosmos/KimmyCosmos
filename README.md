@@ -26,4 +26,3 @@ Scientific Computing • Algorithms & Data Structures
 ## Links
 LinkedIn: https://linkedin.com/in/kimmycosmos  
 GitHub: https://github.com/KimmyCosmos  
-Portfolio: https://kimmycosmos.com
