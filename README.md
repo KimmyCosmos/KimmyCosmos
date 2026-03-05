@@ -6,6 +6,14 @@ Former NASA Data & Analytics Intern – Aerosciences Evaluation and Test Capabil
 
 I work at the intersection of **data science, scientific computing, and aerospace analytics**, building tools that help transform complex technical data into actionable insight.
 
+## Experience
+Former **NASA Data & Analytics Intern**  
+Aerosciences Evaluation and Test Capabilities (AETC)
+Former **Teaching Assistant**
+University of California, Riverside – Department of Mathematics
+
+Developed performance and value metrics for NASA wind tunnel facilities and contributed to data-driven decision support for aeronautics testing infrastructure.
+
 ## Research & Interests
 - Data science for aerospace systems
 - Scientific computing and numerical methods
@@ -40,10 +48,6 @@ Pointer-based BST implementation in C++ with insertion, deletion, and traversal 
 
 **Josephus Problem Simulation**  
 Algorithmic simulation using circular linked lists.
-- CatDogClassifier_TensorFlow – CNN image classifier built with TensorFlow
-- BinarySearchTree_Implementation – Pointer-based BST implementation in C++
-- JosephusProblem_CircularLinkedList – Algorithmic simulation using circular linked lists
-- DoublyLinkedList_Implementation – Custom doubly linked list data structure
 
 ## Links
 LinkedIn: https://linkedin.com/in/kimmycosmos  
