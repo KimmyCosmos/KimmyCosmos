@@ -22,12 +22,24 @@ I work at the intersection of **data science, scientific computing, and aerospac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </p>
-
 Python • NumPy • Pandas • Scikit-Learn • MATLAB  
 Machine Learning • Statistical Modeling • Data Visualization  
 Scientific Computing • Algorithms & Data Structures
 
 ## Featured Projects
+## Featured Projects
+
+**AI Search Algorithms**  
+Implementation of DFS, BFS, UCS, and A* search algorithms using the Pacman AI framework.
+
+**CatDogClassifier_TensorFlow**  
+Convolutional neural network for binary image classification built with TensorFlow.
+
+**Binary Search Tree Implementation**  
+Pointer-based BST implementation in C++ with insertion, deletion, and traversal algorithms.
+
+**Josephus Problem Simulation**  
+Algorithmic simulation using circular linked lists.
 - CatDogClassifier_TensorFlow – CNN image classifier built with TensorFlow
 - BinarySearchTree_Implementation – Pointer-based BST implementation in C++
 - JosephusProblem_CircularLinkedList – Algorithmic simulation using circular linked lists
