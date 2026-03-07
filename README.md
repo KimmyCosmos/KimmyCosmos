@@ -28,17 +28,23 @@ Scientific Computing • Algorithms & Data Structures
 
 ## Featured Projects
 
+**NYT Text Classification**  
+Comparative NLP study evaluating document representations including Binary Bag-of-Words, TF-IDF, SVD-based embeddings, and DistilBERT transformer embeddings for classifying New York Times articles. Implemented with Scikit-Learn, PyTorch, and HuggingFace.
+
+**Deepfake Detection with Transfer Learning**  
+Computer vision project detecting AI-generated images using ResNet18 embeddings and a cross-validated neural classifier. Built using PyTorch and evaluated with standard ML performance metrics.
+
+**Streaming Data Structures Analysis**  
+Implementation and analysis of probabilistic streaming algorithms including Bloom Filters, Count-Min Sketch, Flajolet-Martin, and DGIM for analyzing large-scale clickstream data with limited memory.
+
+**Social Network Graph Analysis**  
+Graph analytics on the SNAP Facebook network dataset using NetworkX. Includes community detection, structural analysis, and visualization of network properties.
+
+**Dimensionality Reduction Analysis**  
+Comparative study of PCA, t-SNE, and UMAP for visualizing high-dimensional datasets and understanding latent structure in complex data.
+
 **AI Search Algorithms**  
-Implementation of DFS, BFS, UCS, and A* search algorithms using the Pacman AI framework.
-
-**CatDogClassifier_TensorFlow**  
-Convolutional neural network for binary image classification built with TensorFlow.
-
-**Binary Search Tree Implementation**  
-Pointer-based BST implementation in C++ with insertion, deletion, and traversal algorithms.
-
-**Josephus Problem Simulation**  
-Algorithmic simulation using circular linked lists.
+Implementation of classical AI search algorithms including Depth-First Search, Breadth-First Search, Uniform Cost Search, and A* using the Berkeley Pacman framework.
 
 ## Links
 LinkedIn: https://linkedin.com/in/kimmycosmos  
